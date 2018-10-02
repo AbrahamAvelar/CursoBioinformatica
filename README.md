@@ -25,35 +25,34 @@
 
 ## 3 Colaboraciones y reproducibilidad en genómica  
 
-3.1 Google Drive  
-3.2 Documentos  
-3.3 Hojas de cálculo  
-3.4 Formularios  
-3.5 Sitios web de google  
-
-## 4 GitHub  
-
-4.1 Lenguaje GIT  
-4.2 Manejo de versiones  
-4.3 Repositorios de gitHub  
-4.4 Documentación  
-
-
-## 5 Exploración de datos y procesamiento para genómica  
-
-5.1 Evaluación de la calidad de las lecturas  
-5.2 Rasurado (trimming) y filtrado de datos  
-5.3 Flujo de trabajo para llamado de variantes (Variant calling)  
-5.4 Automatización del llamado de variantes  
+### 3.1 Google Drive  
+  3.12 Documentos  
+  3.13 Hojas de cálculo  
+  3.14 Formularios  
+  3.15 Sitios web de Google  
+    
+### 3.2 GitHub  
+  3.21 Lenguaje GIT  
+  3.22 Manejo de versiones  
+  3.23 Repositorios de gitHub  
+  3.24 Documentación  
 
 
-## 6 Introducción al cómputo en la nube para la genómica  
+## 4 Exploración de datos y procesamiento para genómica  
 
-6.1 ¿Por qué cómputo en la nube?  
-6.2 Conectándose a la nube  
-6.3 Afinando tu configuración de la nube  
-6.4 Flujo de datos locales y remotos  
-6.5 ¿Qué nube es para mis datos?  
+4.1 Evaluación de la calidad de las lecturas  
+4.2 Rasurado (trimming) y filtrado de datos  
+4.3 Flujo de trabajo para llamado de variantes (Variant calling)  
+4.4 Automatización del llamado de variantes  
+
+
+## 5 Introducción al cómputo en la nube para la genómica  
+
+5.1 ¿Por qué cómputo en la nube?  
+5.2 Conectándose a la nube  
+5.3 Afinando tu configuración de la nube  
+5.4 Flujo de datos locales y remotos  
+5.5 ¿Qué nube es para mis datos?  
 
 
 
